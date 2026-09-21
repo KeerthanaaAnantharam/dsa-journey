@@ -1,3 +1,4 @@
+package Beginner.IfElse;
 //Given two numbers A and B. Print the floor of A/B.
 
 import java.lang.*;

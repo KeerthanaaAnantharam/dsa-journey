@@ -1,4 +1,4 @@
-//Given 5 numbers A, B, C, D, E as input.
+package Beginner.InputOutput;//Given 5 numbers A, B, C, D, E as input.
 //Print the average of these 5 numbers (correct up to 2 decimal places).
 
 import java.lang.*;
@@ -12,8 +12,8 @@ public class AverageOfNumbers {
         float C = sc.nextFloat();
         float D = sc.nextFloat();
         float E = sc.nextFloat();
-        int sum = A + B + C + D + E;
-        int avg = sum / 5;
-        System.out.println("%.2f",avg);
+        int sum = (int) (A + B + C + D + E);
+        float avg = (float) sum / 5;
+        System.out.println(String.format("%.2f", avg));
     }
 }

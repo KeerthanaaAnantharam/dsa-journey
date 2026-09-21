@@ -1,3 +1,4 @@
+package Beginner.ForLoop;
 //Write a program to input an integer T which represents the number of test cases.
 //For each test case input two integers A and B in two different lines.
 //For each pair of A and B print the HCF of the given two numbers.

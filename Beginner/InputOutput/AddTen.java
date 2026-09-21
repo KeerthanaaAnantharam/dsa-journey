@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //You will be given an integer in the input.
 //You need to add 10 to it and print the result to the output.
 

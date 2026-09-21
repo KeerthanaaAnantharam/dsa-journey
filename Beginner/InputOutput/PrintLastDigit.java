@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //Given an integer in the input print its last digit.
 
 import java.lang.*;

@@ -1,3 +1,4 @@
+package Beginner.IfElse;
 //You are given an integer A.
 //You have to tell how many days are there in the month denoted by A in a non-leap year.
 //Months are denoted as follows:

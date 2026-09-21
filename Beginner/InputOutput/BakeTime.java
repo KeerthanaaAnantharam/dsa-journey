@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //You're going to write some code to help you cook a gorgeous lasagna
 //from your favorite cookbook. According to your cookbook, the Lasagna should be
 //in the oven for 40 minutes. Given the time (in minutes), the lasagna has been in the oven,

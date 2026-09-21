@@ -1,3 +1,4 @@
+package Beginner.ForLoop;
 //You take a number of test cases, denoted by T as input.
 //For each test case, you should take integers N as input.
 //Your task is to calculate and print the sum of the digits of the given number N.

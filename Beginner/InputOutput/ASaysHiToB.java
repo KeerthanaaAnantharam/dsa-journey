@@ -1,4 +1,4 @@
-/*Take two names A and B as input from the user,
+package Beginner.InputOutput;/*Take two names A and B as input from the user,
 print "A says Hi to B" (Without quotations),
 where A and B are the names in input.*/
 
@@ -12,7 +12,7 @@ public class ASaysHiToB {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String A = sc.next();
-        String B = sc.nect();
+        String B = sc.next();
         System.out.print(A+ "says Hi To" +B);
     }
 }

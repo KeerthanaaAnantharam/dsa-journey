@@ -1,3 +1,4 @@
+package Beginner.WhileLoop;
 //Take a number A as input, print its multiplication table having the first 10 multiples.
 
 import java.lang.*;
@@ -9,7 +10,7 @@ public class MultiplicationTable {
         int A = sc.nextInt();
         int i = 1;
         while(i<=10) {
-            System.out.println(N + " " + "*" + " " + i + " " + "=" + " "+ (N*i));
+            System.out.println(A + " " + "*" + " " + i + " " + "=" + " "+ (A*i));
             i++;
         }
     }

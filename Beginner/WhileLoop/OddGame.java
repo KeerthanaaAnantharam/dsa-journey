@@ -1,3 +1,4 @@
+package Beginner.WhileLoop;
 //Write a program to print all odd numbers from 1 to N
 // where you have to take N as input from user.
 // Here N is inclusive.
@@ -14,7 +15,7 @@ public class OddGame {
 
         while(i<=N) {
             if (i % 2 == 1) {
-                System.out.print(i + " ")
+                System.out.print(i + " ");
             }
             i++;
         }

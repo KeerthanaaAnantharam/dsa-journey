@@ -1,3 +1,4 @@
+package Beginner.IfElse;
 //You are given a Bank account having N amount and
 // you are asked to perform ADD(credit) or SUBTRACT(debit) operation of an amount X.
 //After the operation print the amount left in the Bank account.

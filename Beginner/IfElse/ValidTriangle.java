@@ -1,3 +1,4 @@
+package Beginner.IfElse;
 //You are given 3 integer angles(in degrees) A, B and C of a triangle.
 // You have to tell whether the triangle is valid or not.
 //A triangle is valid if sum of its angles equals to 180.

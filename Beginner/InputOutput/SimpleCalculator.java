@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //Given two numbers A and B. Print A+B, A*B, A-B, A/B in the same order.
 
 import java.lang.*;

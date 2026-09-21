@@ -1,3 +1,4 @@
+package Beginner.IfElse;
 //Write a program to input two numbers(A & B) from user and
 //print the maximum element among A & B.
 

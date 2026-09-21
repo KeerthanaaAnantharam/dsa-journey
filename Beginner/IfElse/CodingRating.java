@@ -1,3 +1,4 @@
+package Beginner.IfElse;
 //Write a program to input from user an integer(n) representing the rating of a person on a platform.
 //You have to print the category of that person.
 //If the rating is greater than or equal to 2100 then that person is "grand master".

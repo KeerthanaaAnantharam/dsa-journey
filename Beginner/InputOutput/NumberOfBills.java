@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //Given total bills amount and amount of a single bill. Print number of bills.
 
 import java.lang.*;

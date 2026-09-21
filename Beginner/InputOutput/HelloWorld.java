@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //Print "Hello World !" in the output.
 
 import java.lang.*;

@@ -1,3 +1,4 @@
+package Beginner.ForLoop;
 //Given the Number of Test Cases as T,
 //For each test case, take an integer N as input, you have to tell whether
 // it is a perfect number or not.

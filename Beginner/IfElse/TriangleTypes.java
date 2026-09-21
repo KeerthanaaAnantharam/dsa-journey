@@ -1,3 +1,4 @@
+package Beginner.IfElse;
 //Write a program to input from user three numbers(A, B & C)
 //representing side lengths of a triangle.
 //You have to print if the traingle is "equilateral", "scalene" or "isosceles".

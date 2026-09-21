@@ -1,3 +1,4 @@
+package Beginner.IfElse;
 //Write a program to input three numbers(A, B & C) from user and
 //print the maximum element among A, B & C in each line.
 

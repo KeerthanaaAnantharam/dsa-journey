@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //Take a name A as input from the user and print "Hello A", where A is the name in input.
 
 import java.lang.*;

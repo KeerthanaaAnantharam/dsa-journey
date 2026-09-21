@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //You wrote some code to help you cook a gorgeous lasagna from your favorite cookbook.
 //Now, you want to find the total number of minutes you've been cooking for
 //the sum of your preparation time and the time the lasagna has already spent baking in the oven.

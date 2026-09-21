@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //Given an english sentence, take it in the input and print it in the output.
 
 import java.lang.*;

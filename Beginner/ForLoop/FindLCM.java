@@ -1,3 +1,4 @@
+package Beginner.ForLoop;
 //Write a function that takes two positive integers A and B and returns their LCM.
 
 import java.lang.*;

@@ -1,3 +1,4 @@
+package Beginner.InputOutput;
 //Given the value of a single bill and the number of bills you received,
 //print the total value of the bills.
 
