@@ -1,4 +1,5 @@
-package Beginner.ForLoop;//Take T (number of test cases) as input.
+package Beginner.ForLoop;
+//Take T (number of test cases) as input.
 //For each test case, take integer N as input and
 // Print the count of digits of that number.
 //Note: No of digits for number 0 is considered as 1.
@@ -10,17 +11,17 @@ public class CountDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
-        int count = 0;
-        for(int t=1;t<=T;t++) {
+        for (int t = 1; t <= T; t++) {
             int N = sc.nextInt();
+            int count = 0;              // fresh tally for each test case
             if (N == 0) {
                 count = 1;
             } else {
-                for (; N > 0; N /= 10) {
+                for (; N != 0; N /= 10) {
                     count++;
                 }
             }
-            System.out.print(count);
+            System.out.println(count);  // one answer per line
         }
     }
 }
